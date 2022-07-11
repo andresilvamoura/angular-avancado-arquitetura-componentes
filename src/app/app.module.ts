@@ -15,7 +15,7 @@ import { AppRountingModule } from './app.routes';
   declarations: [
     AppComponent,
     SobreComponent,
-    CadastroComponent
+    CadastroComponent,
   ],
   imports: [
     BrowserModule,
